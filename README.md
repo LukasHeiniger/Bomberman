@@ -24,22 +24,16 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  muss               | funktional     | Als ein Spieler möchte ich mich 2D bewegen können, damit ich ins Ziel komme. |
-| 2  |  muss               | funktional     | Als Spieler möchte ich, dass mich die Kamera verfolgt, damit ich sehe was ich mache.|
-|3|kann|Qualität|Als Spieler möchte ich Münzen im Spiel haben, die ich einsammeln kann, damit ich im Spiel auf etwas anderes achten muss als Gegner.|
-|4|muss|Funktional|Als Spieler möchte ich Gegner haben, damit das Spiel eine gewisse Schwierigkeit bietet, damit das Spiel nicht langweilig und kurz wird.|
-|5|muss|Funktional|Als Spieler möchte ich ein Lebenssystem haben, welches mein aktuellen Healthstand anzeigt, damit das Spiel eine Schwierigkeit bietet|
-|6|kann|Rand|Als Spieler möchte ich zusätzlich zu den Gegnern Hindernisse haben, damit ich zusätzlich noch auf die Umgebung aufpassen muss und das Spiel interessanter wird.|
-|7|kann|Qualität|Als Spieler möchte ich Animationen haben, damit das Spiel flüssig aussieht und ich nicht gestört werde, |
-|8|kann|Qualität|Als Spieler möchte ich mit den Münzen etwas kaufen können, damit das Spiel nicht langweilig wird und dass das Geld einen Nutzen hat. |
-|9|muss|Funktional|Als Spieler möchte ich verschiedene Levels spielen können, damit das Spiel nicht immer gleich ist.|
-|10|muss|Funktional|Als Spieler möchte ich Waffen verwenden (mind. 2), damit ich die Gegner besiegen kann.|
-|11|kann|Funktional|Als Spieler möchte ich eine Ammobox, damit ich wieder mit meiner Waffe schiessen kann.|
-|12|kann|Qualität|Als Spieler möchte ich mich in die Richtung drehen, wo auch immer ich schaue, damit ich |
-|13|muss|Funktional|Als Spieler möchte ich einen Restart Knopf, falls ich tot bin, da ich dann das Spiel nochmals spielen möchte.|
-|14|kann|Funktional|Als Spieler möchte ich Granaten werfen, damit ich grosse Mengen an Gegner eliminieren kann.|
-|15|kann|Funktional|Als Spieler möchte ich sprinten können, damit ich das Spiel schneller durch spielen kann.|
-|16|kann|Funktional|Als Spieler möchte ich einen Doublejumb ausführen, damit ich mich vor dem Abgrund retten kann|
+|1|muss|funktional|Als Spieler möchte ich mich bewegen, damit ich die Chance habe zu gewinnen.|
+|2|muss|funktional|Als Spieler möchte ich Bomben werfen, damit ich Hindernisse zersötren kann wie auch meinen Gegner|
+|3|muss|funktional|Als Spieler möchte ich Bomben aufsameln können, damit ich mehr Munition habe|
+|4|muss|funktional|Als Spieler möchte ich eine KI die gegen mich spielt, damit ich das Spiel spielen kann.|
+|5|muss|funktional|Als Spieler möchte ich, dass die Bomben schaden machen, damit ich gewinnen oder verlieren kann.|
+|6|kann|funktional|Als Spieler möchte ich die Schwierigkeit einstellen können, damit ich mich verbessern kann.|
+|7|kann|qualität|Als Spieler möchte ich ein Scoreboard haben, damit ich sehen kann wie meine KD aussieht.|
+|8|kann|funktional|Als Spieler möchte ich Multiplayer, damit ich gegen andere Menschen spielen kann.|
+
+
 
 
 ### 1.3 Testfälle
