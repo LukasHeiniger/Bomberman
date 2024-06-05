@@ -57,16 +57,16 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 ## 2 Planen
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 05.06 | Mirhan | Skript für den Player, damit man ihn bewegen kann. | 60 min |
-| 1.B  | 05.06 | Mirhan | Skript, damit die Kamera nicht statisch ist sondern sich mit dem Spieler mit bewegt. | 20 min |
-| 2.A  | 18.10 | Lukas | Skript für das Werfen der Bomben. | 60 min |
-| 2.B  | 25.10 | Lukas | Skript für die Bombenexplosion und Schaden. | 45 min |
-| 3.A  | 1.11  | Lukas | Ammobox programmieren, damit Bomben eingesammelt werden können. | 45 min |
-| 4.A  | 18.10 | Mirhan | Gegner (KI) für das Spiel erstellen. | 120 min |
-| 5.A  | 25.10 | Lukas | Funktion, damit die Bomben Schaden verursachen. | 45 min |
-| 6.A  | 1.11  | Lukas | Schwierigkeitseinstellungen hinzufügen. | 45 min |
-| 7.A  | 1.11  | Mirhan | Scoreboard hinzufügen. | 45 min |
-| 8.A  | 1.11  | Lukas | Multiplayer-Funktionalität hinzufügen. | 120 min |
+| 1.A  | 29.05 | Mirhan | Skript für den Player, damit man ihn bewegen kann. | 60 min |
+| 1.B  | 29.05 | Mirhan | Skript, damit die Kamera nicht statisch ist sondern sich mit dem Spieler mit bewegt. | 20 min |
+| 2.A  |  05.06 | Lukas | Skript für das Werfen der Bomben. | 60 min |
+| 2.B  |  05.06 | Lukas | Skript für die Bombenexplosion und Schaden. | 45 min |
+| 3.A  |  05.06 | Lukas | Ammobox programmieren, damit Bomben eingesammelt werden können. | 45 min |
+| 4.A  | 05.06| Mirhan | Gegner (KI) für das Spiel erstellen. | 120 min |
+| 5.A  | 05.06| Lukas | Funktion, damit die Bomben Schaden verursachen. | 45 min |
+| 6.A  | 12.06 | Lukas | Schwierigkeitseinstellungen hinzufügen. | 45 min |
+| 7.A  |12.06  | Mirhan | Scoreboard hinzufügen. | 45 min |
+| 8.A  | 12.06  | Lukas | Multiplayer-Funktionalität hinzufügen. | 120 min |
 
 Total: 18
 
