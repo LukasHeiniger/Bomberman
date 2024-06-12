@@ -6,10 +6,10 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 20.9      | 0.0.1   | Anfang |
-| 18.10      | 0.0.2    |  Erste Prototypen                                                            |
-| 25.10      | 0.0.3    |   Erste richtige Version des Spieles                            |
-| 1.11      | 1.0.0   |   Fertiges Spiel                                                           |
+| 22.05      | 0.0.1   | Anfang |
+| 29.05      | 0.0.2    |  Erste Prototypen                                                            |
+| 05.06     | 0.0.3    |   Erste richtige Version des Spieles                            |
+| 12.6      | 1.0.0   |   Fertiges Spiel                                                           |
 
 ## 1 Informieren
 
