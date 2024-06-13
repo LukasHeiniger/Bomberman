@@ -59,14 +59,16 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 29.05 | Mirhan | Skript für den Player, damit man ihn bewegen kann. | 60 min |
 | 1.B  | 29.05 | Mirhan | Skript, damit die Kamera nicht statisch ist sondern sich mit dem Spieler mit bewegt. | 20 min |
-| 2.A  |  05.06 | Lukas | Skript für das Werfen der Bomben. | 60 min |
-| 2.B  |  05.06 | Lukas | Skript für die Bombenexplosion und Schaden. | 45 min |
-| 3.A  |  05.06 | Lukas | Ammobox programmieren, damit Bomben eingesammelt werden können. | 45 min |
-| 4.A  | 05.06| Mirhan | Gegner (KI) für das Spiel erstellen. | 120 min |
-| 5.A  | 05.06| Lukas | Funktion, damit die Bomben Schaden verursachen. | 45 min |
-| 6.A  | 12.06 | Lukas | Schwierigkeitseinstellungen hinzufügen. | 45 min |
-| 7.A  |12.06  | Mirhan | Scoreboard hinzufügen. | 45 min |
-| 8.A  | 12.06  | Lukas | Multiplayer-Funktionalität hinzufügen. | 120 min |
+| 2.A  |  05.06 | Mirhan | Skript für das Werfen der Bomben und das Zerstören der Blöcke, damit man sich frei machen kann. | 60 min |
+| 2.B  |  05.06 | Lukas | Skript für die Bombenexplosion und Schaden, damit die Bomben einen Nutzen haben | 45 min |
+| 3.A  |  05.06 | Mirhan | Ammobox programmieren, damit Bomben eingesammelt werden können. | 45 min |
+| 4.A  | 05.06| Lukas | Gegner (KI) für das Spiel erstellen, da man sonst alleine wäre. | 120 min |
+| 5.A  | 05.06| Lukas | Funktion, damit die Bomben Schaden verursachen, da man sonst weder verlieren noch gewinnen könnte. | 45 min |
+| 6.A  | 12.06 | Lukas | Schwierigkeitseinstellungen hinzufügen, um sich zu verbessern. | 45 min |
+| 7.A  |12.06  | Mirhan | Scoreboard hinzufügen, um seine Rekorde zu sehen | 45 min |
+| 8.A  | 12.06  | Lukas | Multiplayer-Funktionalität hinzufügen, damit man mehr spass hat. | 120 min |
+|9.A|12.06|Lukas|Musik einfügen, damit das Spiel nicht langweilig wird.|25 Minuten|
+|10.A|12.06|Mirhan|Die Tilemap erstellen, damit man eine Karte zum spielen hat.||
 
 Total: 18
 
