@@ -45,17 +45,17 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Das Spiel lässt den Spieler sich bewegen             |  W,A,S,D       | Spieler bewegt sich dementsprechend |
-|1.2|das Spiel hat noch nicht gestartet|/|Die Tilemap ist zu sehen.|
-|2.1|Der Spieler läuft|/|Die Kamera bewegt sich mit|
-| 2.2  | Spiel wurde gestartet       |  Leertaste      |Bombe wird platziert und verschwindet nach einem Moment.          |
-| 2.3  | Bombe wurde platziert|  /      |Bombe macht dem Spieler schaden und hat Partikel          |
-|3.1|Spieler braucht neue Bomben|Spieler läuft über das Bombenicon|+1 Bomben|
-|4.1|Das Level hat Gegner|-|KI Gegner existiert|
-|5.1|Bombe wurde gelegt|/|Blöcke werden zerstört|
-|6.1|Spiel gestarten|Schwierigkeit auswählen|KI verhaltet sich anhand der schwierigkeit|
-|7.1|Runden sind vergangen|Tabulatortaste|Game zeigt Scoreboard|
-|8.1|Spiel wird gestartet|Multiplayer auswählen|Spieler kann joinen|
-|9.1|Spiel hat gestartet|/|Musik läuft im Hintergrund|
+|2.1|das Spiel hat noch nicht gestartet|/|Die Tilemap ist zu sehen.|
+|3.1|Der Spieler läuft|/|Die Kamera bewegt sich mit|
+| 4.1  | Spiel wurde gestartet       |  Leertaste      |Bombe wird platziert und verschwindet nach einem Moment.          |
+| 5.1  | Bombe wurde platziert|  /      |Bombe macht dem Spieler schaden und hat Partikel          |
+|6.1|Spieler braucht neue Bomben|Spieler läuft über das Bombenicon|+1 Bomben|
+|7.1|Das Level hat Gegner|-|KI Gegner existiert|
+|8.1|Bombe wurde gelegt|/|Blöcke werden zerstört|
+|9.1|Spiel gestarten|Schwierigkeit auswählen|KI verhaltet sich anhand der schwierigkeit|
+|10.1|Runden sind vergangen|Tabulatortaste|Game zeigt Scoreboard|
+|11.1|Spiel wird gestartet|Multiplayer auswählen|Spieler kann joinen|
+|12.1|Spiel hat gestartet|/|Musik läuft im Hintergrund|
 
 
 
@@ -111,8 +111,8 @@ Nach dem Planen haben wir uns entschieden, dass wir das Spiel in Unity umsetzen 
 | ---- | ----- | -------- | ------ | -------|
 | 1.1  | 12.06 | funktioniert         |  Mirhan      | Zuhause|
 | 2.1  | 12.06 | funktioniert         |  Mirhan      | Zuhause|
-| 3.1  |12.06| funktioniert        |  Mirhan      | Zuhause|
-| 4.1  |12.06 | korrekt         |  Mirhan      | Zuhause|
+| 3.1  |12.06| funktioniert anderst        |  Mirhan      | Zuhause|
+| 4.1  |12.06 | funktioniert         |  Mirhan      | Zuhause|
 | 5.1  |12.06 | funktioniert         |  Lukas      | Zuhause|
 | 6.1  |12.06 | funktioniert         |  Lukas      | Zuhause|
 | 7.1  |12.06| funktioniert         |  Lukas      | Zuhause|
@@ -124,7 +124,7 @@ Nach dem Planen haben wir uns entschieden, dass wir das Spiel in Unity umsetzen 
 
 
 ## Fazit
-Wir sind sehr zufrieden mit unserem Projekt, jedoch konnten wir nicht alles umsetzen, da wir uns zuerst mit Unity vertraut machen mussten. Jedoch würden wir sagen, dass unser Spiel spielbar ist auch wenn es nicht 100% fertig ist.
+Wir sind sehr zufrieden mit unserem Projekt, jedoch konnten wir nicht alles umsetzen. Jedoch würden wir sagen, dass unser Spiel spielbar ist auch wenn es nicht 100% fertig ist. Am liebsten hätten wir das Online Feature noch gehabt.
 
 
 
